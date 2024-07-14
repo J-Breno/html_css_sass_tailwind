@@ -1,0 +1,21 @@
+h1{
+    border: 2px solid #ccc;
+    padding: 20px 20px 200px 20px;
+}
+
+p {
+    background-color: #e7e7e7;
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.fixo {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+}
+
+/* normalmente o elemento pai é positon relative e o filho absolute, mas isso somente quando quero fazer que o elemento filho fique por cima de uma coisa especifica */
